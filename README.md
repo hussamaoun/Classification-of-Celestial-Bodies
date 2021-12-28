@@ -1,0 +1,3 @@
+#this is a beginner classification task
+#you can improve the performance by importing a bigger dataset and applying data Augmentation to color,contrast.....
+#Adding more layers may be better 
